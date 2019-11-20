@@ -5,7 +5,7 @@ class Logo extends Component {
     return (
       <div className="logo-main">
         <img
-          alt="dalily smarty image logo big"
+          alt="daily smarty ui image logo big"
           src="/assets/ds_circle_logo.png"
         />
       </div>
